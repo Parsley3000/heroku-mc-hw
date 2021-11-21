@@ -1,0 +1,1 @@
+web: java -jar target/mastercard-hello-world-1.0.jar
